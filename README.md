@@ -1,6 +1,5 @@
 # docker-raspbian
 This repository provides a docker image which starts a rasbian emulator thanks to qemu
-This docker image starts a rasbian emulator thanks to qemu.
 
 ## Build the docker image
  
